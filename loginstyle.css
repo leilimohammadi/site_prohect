@@ -1,0 +1,63 @@
+@charset "utf-8";
+body {
+	direction: rtl;
+	margin: 0;
+	font-family :b koodak;
+    background-image:url("patern.jpg");
+    background-repeat: repeat; 
+    margin-top:10px;
+}
+td {
+	vertical-align:top;
+	padding:10;
+	width:700px;
+	height:720px;
+	border:4px solid #eb3333;
+	background-color:#fdbcbc;
+	font-size:18px;
+	color:#000;
+	text-align:center;
+	margin-top:10px;
+}
+table {
+	border-collapse: collapse;
+	margin:0 auto; 
+}
+.Form{
+    vertical-align:top;
+    text-align:right;
+    font-size:18px;
+    color:#000;
+    width:250px;
+    height:200px;
+    margin:8px;
+    padding:8px;
+
+}
+.title{
+	margin-bottom:20px;
+    font-size:30px;
+    border-bottom:2px solid #eb3333;
+    padding-bottom:4px;
+    color:#000;
+}
+
+input{
+	width: 250px;
+	height: 25px;
+}
+
+.btn{
+	height: 50px;
+	margin-right: 430px;
+	margin-top: 490px;
+}
+
+#btnexit,#btnsabt{
+    width: 100px;
+	height: 35px;
+    font-size: 15px;
+	background-color: #eb3333;
+	border-radius: 5px;
+	
+}
